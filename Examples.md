@@ -12,7 +12,7 @@ While count <15
 End While
 Print "All measurements processed"
 
-
+----------------------------------------------------------------
 
 Do While Pseudocode 
 
@@ -28,7 +28,7 @@ do
 End do while
 Print "All measurements processed"
 
-
+-----------------------------------------------------------------
 Pseudocode for Calculate Measurement
 
   
