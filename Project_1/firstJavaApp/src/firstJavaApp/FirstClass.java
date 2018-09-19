@@ -44,7 +44,7 @@ public class FirstClass {
 			System.out.println("The result "+ result);
 			count++;
 			
-			}while(count<3);
+			}while(count<15);
 		
 		System.out.println("All Measurements Processed !!1");
 			
