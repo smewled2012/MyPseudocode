@@ -1,5 +1,5 @@
 
-While Pseudocode 
+# While Pseudocode 
 
 Set count =0
 While count <15
@@ -14,7 +14,7 @@ Print "All measurements processed"
 
 ----------------------------------------------------------------
 
-Do While Pseudocode 
+#Do While Pseudocode 
 
 
 set count =0
